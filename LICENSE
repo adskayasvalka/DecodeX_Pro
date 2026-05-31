@@ -1,21 +1,43 @@
-MIT License
+# Лицензия DecodeX Pro v1.0
 
-Copyright (c) 2026 adskayasvalka
+Copyright (c) 2026 DecodeX Project. Все права защищены.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## ✅ РАЗРЕШЕНО:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. **Личное использование** — можете свободно использовать приложение для своих нужд
+2. **Образовательные цели** — изучение кода, обучение, демонстрация
+3. **Модификация для себя** — можете менять код под свои задачи, но только для личного использования
+4. **Распространение исходного кода** — при условии сохранения имени автора и ссылки на оригинальный репозиторий
+5. **Создание форков** — с указанием оригинального автора
+
+---
+
+## ❌ ЗАПРЕЩЕНО:
+
+1. **Коммерческое использование** — нельзя продавать приложение или его модификации без письменного разрешения автора
+2. **Удаление копирайтов** — нельзя убирать имя автора, логотип DecodeX или ссылки на оригинальный проект
+3. **Выдавать за своё** — нельзя утверждать что вы автор оригинального приложения
+4. **Вредоносное использование** — запрещено использовать приложение для атак на сайты без согласия владельцев. Сканер только для тестирования **своих** сайтов или с письменного разрешения!
+5. **Перепродажа** — нельзя продавать даже модифицированные версии без согласия автора
+6. **Создание SaaS-сервисов** — нельзя делать облачный сервис на основе этого кода и брать за него плату
+
+---
+
+## ⚠️ ОТВЕТСТВЕННОСТЬ:
+
+- Автор **не несёт ответственности** за любой ущерб полученный при использовании приложения
+- Вы **сами отвечаете** за то какие сайты сканируете и как используете инструменты шифрования
+- Сканер уязвимостей предназначен **только для тестирования собственных сайтов** или с письменного разрешения владельца
+- Любое нелегальное использование — **на вашей совести**
+
+---
+
+## 📞 Контакты:
+
+Для получения коммерческой лицензии или разрешения на использование пишите:
+- Discord: adskaya_svalka1
+---
+
+**Используя DecodeX Pro вы соглашаетесь с условиями данной лицензии.**
